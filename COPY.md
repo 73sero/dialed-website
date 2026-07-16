@@ -131,7 +131,7 @@ Brand line: **DeenLog**
 
 Links:
 - Privacy Policy / Datenschutz → `privacy.html`
-- Contact / Kontakt → `mailto:serdar.saglam01@icloud.com` (assembled at runtime to defeat scrapers)
+- Contact / Kontakt → `mailto:info@deenlog.de` (assembled at runtime to defeat scrapers)
 
 Copyright: © 2026 Serdar Saglam. All rights reserved. / © 2026 Serdar Saglam. Alle Rechte vorbehalten.
 
